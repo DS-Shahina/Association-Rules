@@ -1,0 +1,11 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+54,"frozenset({'Harry Potter1', 'Sixth Sense'})",frozenset({'LOTR2'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+16,"frozenset({'Green Mile', 'Harry Potter1', 'Sixth Sense'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+44,"frozenset({'Sixth Sense', 'LOTR2'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+12,frozenset({'LOTR2'}),frozenset({'LOTR1'}),0.2,0.2,0.2,1.0,5.0,0.16,inf
+126,"frozenset({'Green Mile', 'Harry Potter1'})",frozenset({'LOTR2'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+90,"frozenset({'Harry Potter1', 'LOTR2'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+30,"frozenset({'Harry Potter1', 'Sixth Sense', 'LOTR2'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+120,"frozenset({'Green Mile', 'LOTR2'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+132,"frozenset({'Green Mile', 'Sixth Sense', 'LOTR2'})",frozenset({'LOTR1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf
+188,frozenset({'Harry Potter2'}),frozenset({'Harry Potter1'}),0.1,0.2,0.1,1.0,5.0,0.08,inf

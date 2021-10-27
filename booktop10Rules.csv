@@ -1,0 +1,11 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+3280,"frozenset({'ItalAtlas', 'GeogBks', 'ArtBks'})",frozenset({'ItalArt'}),0.0115,0.0485,0.0115,1.0,20.618556701030926,0.01094225,inf
+3762,"frozenset({'ItalAtlas', 'ArtBks', 'DoItYBks'})",frozenset({'ItalArt'}),0.01,0.0485,0.0095,0.95,19.58762886597938,0.009015,19.029999999999983
+2546,"frozenset({'ChildBks', 'ItalAtlas', 'ArtBks'})",frozenset({'ItalArt'}),0.0155,0.0485,0.0145,0.935483870967742,19.28832723644829,0.01374825,14.748250000000013
+3012,"frozenset({'ItalAtlas', 'CookBks', 'ArtBks'})",frozenset({'ItalArt'}),0.014,0.0485,0.013,0.9285714285714285,19.14580265095729,0.012320999999999999,13.320999999999986
+2182,"frozenset({'ItalAtlas', 'ArtBks'})",frozenset({'ItalArt'}),0.018,0.0485,0.0165,0.9166666666666667,18.900343642611684,0.015627000000000002,11.41800000000001
+3658,"frozenset({'ChildBks', 'ItalAtlas', 'GeogBks'})",frozenset({'ItalArt'}),0.0175,0.0485,0.01,0.5714285714285714,11.7820324005891,0.00915125,2.2201666666666666
+4140,"frozenset({'ItalAtlas', 'GeogBks', 'CookBks'})",frozenset({'ItalArt'}),0.016,0.0485,0.009,0.5625,11.597938144329897,0.008223999999999999,2.174857142857143
+3308,"frozenset({'ItalAtlas', 'GeogBks'})",frozenset({'ItalArt'}),0.0205,0.0485,0.0115,0.5609756097560975,11.566507417651495,0.01050575,2.167305555555555
+4300,"frozenset({'ItalAtlas', 'CookBks', 'DoItYBks'})",frozenset({'ItalArt'}),0.015,0.0485,0.008,0.5333333333333333,10.996563573883162,0.0072725,2.0389285714285714
+3376,"frozenset({'ChildBks', 'ItalAtlas', 'CookBks'})",frozenset({'ItalArt'}),0.0225,0.0485,0.0115,0.5111111111111111,10.538373424971361,0.01040875,1.9462499999999998
